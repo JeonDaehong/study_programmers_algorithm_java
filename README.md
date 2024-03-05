@@ -12,5 +12,5 @@
 
 ## 풀이한 문제 목록
 ### Level 2
-- 🧑‍💻 연속된 부분 수열의 합
-
+- 🧑‍💻 연속된 부분 수열의 합 ( Two Pointers Algorithm )
+- 🧑‍💻 미로 탈출 ( BFS Algorithm )
